@@ -3,7 +3,7 @@ import calendar
 from datetime import date
 import os
 
-arq = 'alunos-Luana.json'
+arq = 'alunos.json'
 
 def carregaralunos():
     """
