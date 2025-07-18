@@ -21,25 +21,11 @@ Sistema para gerenciamento de alunos de personal trainer, com controle de treino
 - Módulos padrão: `json`, `os`, `calendar`
 - Armazenamento: Arquivo JSON local
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sistema-academia.git
-   ```
-
-2. Execute o programa principal:
-   ```bash
-   python main.py
-   ```
-
 ## 📋 Estrutura do Código
 
-```plaintext
-sistema-academia/
-│
+```
 ├── sistema.py            # Programa principal
-├─── modulos.py            # Recursos implementados
+├── modulos.py            # Recursos implementados
 ├── alunos.json           # Banco de dados (gerado automaticamente)
 ├── README.md             # Este arquivo
 ```
